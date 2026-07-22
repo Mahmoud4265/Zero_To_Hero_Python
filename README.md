@@ -6,7 +6,7 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/Zero_To_Hero_Python?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/Zero_To_Hero_Python/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Mahmoud4265/Zero_To_Hero_Python?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/Zero_To_Hero_Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
 ---
