@@ -50,4 +50,5 @@ Open the notebook:
 
 Bash
 jupyter notebook "100 NumPy exercises github.ipynb"
+
 💡 “Practice makes permanent.” — On to Pandas Mastery next! 🚀
