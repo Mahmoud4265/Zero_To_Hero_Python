@@ -93,5 +93,5 @@ It emphasizes **clean code practices**, **algorithmic problem-solving**, and **p
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Zero_To_Hero_Python.git](https://github.com/YOUR_USERNAME/Zero_To_Hero_Python.git)
+   git clone [https://github.com/Mahmoud4265/Zero_To_Hero_Python.git](https://github.com/Mahmoud4265/Zero_To_Hero_Python.git)
    cd Zero_To_Hero_Python
