@@ -95,3 +95,13 @@ It emphasizes **clean code practices**, **algorithmic problem-solving**, and **p
    ```bash
    git clone [https://github.com/Mahmoud4265/Zero_To_Hero_Python.git](https://github.com/Mahmoud4265/Zero_To_Hero_Python.git)
    cd Zero_To_Hero_Python
+   Create a virtual environment:
+
+Bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install dependencies:
+
+Bash
+pip install -r requirements.txt
+⭐ If you find this repository useful, don't forget to give it a star! ⭐
