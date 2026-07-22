@@ -1,6 +1,6 @@
 # 🧩 100 NumPy Exercises - Solved & Mastered
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.32B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-100%25%20Completed-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Status](https://img.shields.io/badge/Progress-100%2F100%20Done-brightgreen.svg?style=for-the-badge)](https://github.com/Rougier/numpy-100)
 
@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-This directory contains my complete solutions to the famous **[100 NumPy Exercises](https://github.com/Rougier/numpy-100)** repository (originally created by Roughier). 
+This directory contains my complete solutions to the famous **[100 NumPy Exercises](https://github.com/Rougier/numpy-100)** repository (created by Roughier). 
 
 These challenges are designed to serve as an intensive practical workout for mastering high-performance numerical computing in Python.
 
