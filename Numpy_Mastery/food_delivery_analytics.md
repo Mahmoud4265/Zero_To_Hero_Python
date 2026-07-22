@@ -1,6 +1,6 @@
 # 🍕 Food Delivery Analytics Pipeline
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.3%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Vectorized%20Ops-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg?style=for-the-badge)]()
