@@ -104,4 +104,5 @@ Install dependencies:
 
 Bash
 pip install -r requirements.txt
+
 ⭐ If you find this repository useful, don't forget to give it a star! ⭐
