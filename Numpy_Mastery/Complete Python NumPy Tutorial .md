@@ -12,7 +12,7 @@ This document serves as a comprehensive study guide and practical summary of the
 *   **Random Data:** Generating randomized datasets with `np.random.rand()` and `np.random.randint()`.
 
 ### 2. Accessing & Changing Elements
-*   **Indexing & Slicing:** Extracting specifi> rows, columns, or sub-arrays using integer and step-based slicing `[start:stop:step]`.
+*   **Indexing & Slicing:** Extracting specific rows, columns, or sub-arrays using integer and step-based slicing `[start:stop:step]`.
 *   **3D Stepping:** Navigating complex multi-dimensional arrays (Work outside-in).
 
 ### 3. Mathematics & Linear Algebra
