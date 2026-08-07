@@ -38,11 +38,11 @@ Whether you're mastering array manipulations or building machine learning pipeli
 <details>
 <summary><b>🌱 Phase 1: Python Foundations & OOP (Click to expand)</b></summary>
 
-- [x] Syntax & Basic Data Types
-- [x] Control Flow & Loops
-- [x] Data Structures (Lists, Tuples, Sets, Dicts)
-- [x] Functions, Modules, and Clean Code (PEP 8)
-- [x] Object-Oriented Programming (OOP) Essentials
+- [ ] Syntax & Basic Data Types
+- [ ] Control Flow & Loops
+- [ ] Data Structures (Lists, Tuples, Sets, Dicts)
+- [ ] Functions, Modules, and Clean Code (PEP 8)
+- [ ] Object-Oriented Programming (OOP) Essentials
 </details>
 
 <details>
