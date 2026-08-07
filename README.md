@@ -13,7 +13,7 @@
 
 ## 🎯 Project Overview
 
-**Zero_To_Hero_Python** is a structured, pure-python data analytics repository. It takes you from core Python syntax through numerical computing, tabular data wrangling, and exploratory data analysis (EDA).
+**Zero_To_Hero_Python** is a structured, pure-Python data analytics repository. It takes you from NumPy libraries through numerical computing, tabular data wrangling, and exploratory data analysis (EDA).
 
 ---
 
@@ -21,11 +21,10 @@
 
 | Module / Phase | Status | Progress | Quick Link |
 | :--- | :---: | :--- | :---: |
-| **Phase 1: NumPy Mastery** | 🟢 Complete | `████████████████████` 100% | [📂 Browse Module](./Numpy_Mastery) |
-| **Phase 2: Pandas Mastery (100 Puzzles)** | 🟢 Complete | `████████████████████` 100% | [📂 Browse Module](./Pandas_Mastery) |
-| **Phase 4: Visualization & EDA (Matplotlib/Seaborn)** | 🟡 In Progress | `████████▒▒▒▒▒▒▒▒▒▒▒▒` 40% | — |
----
-
+| **Phase 1: NumPy Mastery** | 🟢 Complete | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% | [📂 Browse Module](./Numpy_Mastery) |
+| **Phase 2: Pandas Mastery** | 🟢 Complete | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% | [📂 Browse Module](./Pandas_Mastery) |
+| **Phase 3: Visualization & EDA** | 🟡 In Progress | 🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛ 40% | — |
+-------
 ## 🗺️ What's Inside (Interactive Curriculum)
 
 <details>
