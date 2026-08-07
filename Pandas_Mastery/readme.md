@@ -30,42 +30,31 @@ Pandas_Mastery/
 ```
 🎯 Key Learning Highlights
 
-🛑Constructing DataFrames & Series from multiple formats (CSV, JSON, SQL, Dicts).
+- Constructing DataFrames & Series from multiple formats (CSV, JSON, SQL, Dicts).
+- Hierarchical Indexing (MultiIndex) & Slicing complex subsets.
+- Boolean Masking & Conditional Filtering.
+- Detecting, filling, and dropping Missing Values (NaN).
+- String manipulation on text columns using `.str` accessor.
+- Type casting, parsing DateTimes, and handling time-series data.
+- Masterclass on `groupby()`, `agg()`, `transform()`, and `filter()`.
+- Pivoting & Unpivoting with `pivot_table()` and `melt()`.
+- Merging, joining (inner, outer, left, right), and Concatenating DataFrames.
+- Replacing slow Python `for` loops with vectorized Pandas operations.
+- Memory optimization strategies for large-scale datasets.
+- Applying custom functions safely using `.apply()` and `.map()`.
 
-🛑Hierarchical Indexing (MultiIndex) & Slicing complex subsets.
 
-🛑Boolean Masking & Conditional Filtering.
+### 🧩 Featured Challenges: 60 Pandas Puzzles
 
-🛑Detecting, filling, and dropping Missing Values (NaN).
+This module features the curated series from the famous **100 Pandas Puzzles** repository, testing algorithmic intuition and data manipulation speed:
 
-🛑String manipulation on text columns using .str accessor.
-
-🛑Type casting, parsing DateTimes, and handling time-series data.
-
-🛑Masterclass on groupby(), agg(), transform(), and filter().
-
-🛑Pivoting & Unpivoting with pivot_table() and melt().
-
-🛑Merging, joining (inner, outer, left, right), and Concatenating DataFrames.
-
-🛑Replacing slow Python for loops with vectorized Pandas operations.
-
-🛑Memory optimization strategies for large-scale datasets.
-
-🛑Applying custom functions safely using .apply() and .map().
-
-🧩 Featured Challenges: 100 Pandas Puzzles
-This module features a curated series of 100 practical Pandas puzzles designed to test algorithmic intuition and analytical speed:
-
-[x] Basics & DataFrame Mechanics: Exercises 1–15
-
-[x] Filtering & Data Alterations: Exercises 16–30
-
-[x] Advanced Grouping & Aggregations: Exercises 31–50
-
-[x] Time Series & Window Functions: Exercises 51–75
-
-[x] Complex Reshaping & Plotting Integration: Exercises 76–100
+- [x] **Importing & Setup:** Exercises 1–3
+- [x] **DataFrame Basics:** Exercises 4–21
+- [x] **DataFrames Beyond the Basics:** Exercises 22–32
+- [x] **Data Cleaning & Series Operations:** Exercises 33–40
+- [x] **Series & DatetimeIndex:** Exercises 41–50
+- [x] **Using MultiIndexes & Advanced Reshaping:** Exercises 51–56
+- [x] **Minesweeper Logic & Plotting:** Exercises 57–60
 
 💡 Check 100-pandas-puzzles-with-solutions.ipynb if you get stuck or want to compare optimization strategies!
 
