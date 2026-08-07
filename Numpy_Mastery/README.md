@@ -40,7 +40,7 @@ This folder serves as a hands-on laboratory for **NumPy vectorization** and **Da
 
 📁 Numpy_Mastery/
 │
-├── 📜 Numpy_Mastery.md                     <-- You are here
+├── 📜 READMEy.md                     <-- You are here
 ├── 📓 Complete Python NumPy Tutorial.ipynb       <-- Practical tutorial walkthrough
 ├── 📓 100 NumPy exercises github.ipynb     <-- Complete 100 solved questions
 ├── 📓 food_delivery_analytics.ipynb <-- Restaurant Dataset 1 EDA
