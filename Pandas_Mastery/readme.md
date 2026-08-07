@@ -1,87 +1,106 @@
-# 🐼 Pandas Mastery: From Data Cleaning to Advanced Analytics
+# 🐍 Zero To Hero Python
 
-> **Unlocking the full potential of Data Wrangling, Manipulation, and Exploratory Data Analysis (EDA) using Python's core data library.**
+> **Your Ultimate Roadmap from Python Basics to Advanced Data Science & AI**
 
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Field-Data%20Science%20%26%20AI-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
 
-## 📌 Overview
-
-Welcome to the **Pandas Mastery** module! This section of the repository is dedicated to mastering real-world data manipulation, data cleaning, and analytical techniques. 
-
-Whether it's reshaping complex datasets, handling missing values, or running high-performance vector calculations, this module provides hands-on notebooks and practical problem-solving sets.
+</div>
 
 ---
 
-## 📂 Folder Structure
+## 🎯 Project Overview
 
-```text
-Pandas_Mastery/
-├── 📓 100-pandas-puzzles.ipynb                 # Interactive exercises & challenges
-├── 📓 100-pandas-puzzles-with-solutions.ipynb  # Complete reference & step-by-step solutions
-├── 📁 img/                                      # Diagrams, visual aids & output plots
-├── 📄 .gitignore                                # Module-specific ignore rules
-├── 📄 CONTRIBUTORS.md                          # Acknowledgments & contributors
-├── 📄 LICENSE                                   # Module licensing
-└── 📄 requirements.txt                         # Required packages for this module
+**Zero_To_Hero_Python** is a comprehensive, structured learning repository designed to bridge the gap between Python fundamentals and production-ready Data Science & Artificial Intelligence.
 
+Whether you're mastering array manipulations or building machine learning pipelines, this repo serves as a living portfolio of structured code, clean practices, and hands-on exercises.
 
-🎯 Key Learning Highlights
-Constructing DataFrames & Series from multiple formats (CSV, JSON, SQL, Dicts).
+---
 
-Hierarchical Indexing (MultiIndex) & Slicing complex subsets.
+## 🚦 Course Progress Tracker
 
-Boolean Masking & Conditional Filtering.
+| Module / Phase | Status | Progress | Quick Link |
+| :--- | :---: | :--- | :---: |
+| **Phase 1: Python Foundations & OOP** | 🔴 Planned | `▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 0% | — |
+| **Phase 2: NumPy Mastery** | 🟢 Complete | `████████████████████` 100% | [📂 Browse Module](./Numpy_Mastery) |
+| **Phase 3: Pandas Mastery (100 Puzzles)** | 🟢 Complete | `████████████████████` 100% | [📂 Browse Module](./Pandas_Mastery) |
+| **Phase 4: Data Visualization & EDA** | 🟡 In Progress | `████████▒▒▒▒▒▒▒▒▒▒▒▒` 40% | — |
+| **Phase 5: Machine Learning & Deep Learning** | 🔴 Planned | `▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 0% | — |
 
-Detecting, filling, and dropping Missing Values (NaN).
+---
 
-String manipulation on text columns using .str accessor.
+## 🗺️ What's Inside (Interactive Curriculum)
 
-Type casting, parsing DateTimes, and handling time-series data.
+<details>
+<summary><b>🌱 Phase 1: Python Foundations & OOP (Click to expand)</b></summary>
 
-Masterclass on groupby(), agg(), transform(), and filter().
+- [x] Syntax & Basic Data Types
+- [x] Control Flow & Loops
+- [x] Data Structures (Lists, Tuples, Sets, Dicts)
+- [x] Functions, Modules, and Clean Code (PEP 8)
+- [x] Object-Oriented Programming (OOP) Essentials
+</details>
 
-Pivoting & Unpivoting with pivot_table() and melt().
+<details>
+<summary><b>📊 Phase 2: Data Manipulation & Wrangling (Click to expand)</b></summary>
 
-Merging, joining (inner, outer, left, right), and Concatenating DataFrames.
+- [x] **NumPy Mastery:** Vectorized math, N-dimensional arrays, slicing & broadcasting.
+- [x] **Pandas Mastery:** DataFrames, Series, Cleaning, GroupBy, and **100 Interactive Puzzles**.
+</details>
 
-Replacing slow Python for loops with vectorized Pandas operations.
+<details>
+<summary><b>📈 Phase 3: Data Visualization & EDA (Click to expand)</b></summary>
 
-Memory optimization strategies for large-scale datasets.
+- [ ] **Matplotlib:** Custom plots, subplots, and figures.
+- [ ] **Seaborn:** Statistical charts, heatmaps, and distributions.
+- [ ] **Exploratory Data Analysis (EDA):** Real-world dataset walk-throughs.
+</details>
 
-Applying custom functions safely using .apply() and .map().
+<details>
+<summary><b>🤖 Phase 4: Machine Learning & Deep Learning (Click to expand)</b></summary>
 
-🧩 Featured Challenges: 100 Pandas Puzzles
-This module features a curated series of 100 practical Pandas puzzles designed to test algorithmic intuition and analytical speed:
+- [ ] **Scikit-Learn:** Supervised & Unsupervised Learning models.
+- [ ] **TensorFlow / PyTorch:** Neural network architectures, training, and metrics.
+</details>
 
-[x] Basics & DataFrame Mechanics: Exercises 1–15
+---
 
-[x] Filtering & Data Alterations: Exercises 16–30
+## 🛠️ Tech Stack & Ecosystem
 
-[x] Advanced Grouping & Aggregations: Exercises 31–50
+| Category | Technologies / Libraries |
+| :--- | :--- |
+| **Language** | Python 3.10+ |
+| **Data Manipulation** | NumPy, Pandas |
+| **Visualization** | Matplotlib, Seaborn |
+| **ML & DL** | Scikit-Learn, PyTorch, TensorFlow |
+| **Environment** | VS Code, Jupyter Notebook |
 
-[x] Time Series & Window Functions: Exercises 51–75
+---
 
-[x] Complex Reshaping & Plotting Integration: Exercises 76–100
+## 💻 How to Get Started
 
-💡 Check 100-pandas-puzzles-with-solutions.ipynb if you get stuck or want to compare optimization strategies!
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Mahmoud4265/Zero_To_Hero_Python.git](https://github.com/Mahmoud4265/Zero_To_Hero_Python.git)
+   cd Zero_To_Hero_Python
+   ```
+2. **Set up a virtual environment:**
+```bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+```
+3. **Install all dependencies:**
+```bash
+pip install -r Pandas_Mastery/requirements.txt
+```
 
-🚀 How to Run Locally
+⭐ If you find this repository useful, give it a star! ⭐
 
-1. Navigate to the module directory:
-
-Bash:
-cd Pandas_Mastery
-
-2. Install module dependencies:
-
-Bash:
-pip install -r requirements.txt
-
-3. Launch Jupyter Notebook / VS Code:
-
-Bash:
-jupyter notebook 100-pandas-puzzles.ipynb
+  
