@@ -81,7 +81,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 3.Install dependencies:
 ```Bash
-pip install -r requirements.txt
+pip install numpy pandas matplotlib seaborn
 ```
 
 ⭐ If you find this repository useful, don't forget to give it a star! ⭐
