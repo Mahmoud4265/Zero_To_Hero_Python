@@ -26,22 +26,8 @@ It emphasizes **clean code practices**, **algorithmic problem-solving**, and **p
 ---
 
 ## 🗺️ What You'll Learn (The Curriculum)
-
 <details open>
-<summary><b>🌱 Phase 1: Python Foundations & OOP</b></summary>
-<br>
-
-- [x] Syntax & Basic Data Types
-- [x] Control Flow & Loops
-- [x] Data Structures (Lists, Tuples, Sets, Dicts)
-- [x] Functions & Modules
-- [x] Object-Oriented Programming (OOP)
-  - Inheritance, Polymorphism, Encapsulation & Abstraction
-- [x] Clean Code Practices & PEP 8 Standards
-</details>
-
-<details open>
-<summary><b>📊 Phase 2: Data Manipulation & Wrangling</b></summary>
+<summary><b>📊 Phase 1: Data Manipulation & Wrangling</b></summary>
 <br>
 
 - [x] **NumPy:** Vectorized operations, N-dimensional arrays, mathematical manipulations.
@@ -49,22 +35,14 @@ It emphasizes **clean code practices**, **algorithmic problem-solving**, and **p
 </details>
 
 <details open>
-<summary><b>📈 Phase 3: Data Visualization & EDA</b></summary>
+<summary><b>📈 Phase 2: Data Visualization & EDA</b></summary>
 <br>
 
 - [x] **Matplotlib:** Customizing plots, figures, subplots.
-- [x] **Seaborn:** Statistical data visualization, heatmaps, distribution plots.
-- [x] Exploratory Data Analysis (EDA) on Real-World Datasets.
+- [ ] **Seaborn:** Statistical data visualization, heatmaps, distribution plots.
+- [ ] Exploratory Data Analysis (EDA) on Real-World Datasets.
 </details>
 
-<details open>
-<summary><b>🤖 Phase 4: Machine Learning & Deep Learning</b></summary>
-<br>
-
-- [ ] **Scikit-Learn:** Supervised & Unsupervised Learning models, Preprocessing, Evaluation Metrics.
-- [ ] **TensorFlow:** Neural Networks, Model Architecture & Training.
-- [ ] **PyTorch:** Dynamic Graphs, Tensors, Building Custom Neural Networks.
-</details>
 
 ---
 
@@ -95,14 +73,15 @@ It emphasizes **clean code practices**, **algorithmic problem-solving**, and **p
    ```bash
    git clone [https://github.com/Mahmoud4265/Zero_To_Hero_Python.git](https://github.com/Mahmoud4265/Zero_To_Hero_Python.git)
    cd Zero_To_Hero_Python
-   Create a virtual environment:
-
-Bash
+   ```
+2.Create a virtual environment:
+```Bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies:
-
-Bash
+```
+3.Install dependencies:
+```Bash
 pip install -r requirements.txt
+```
 
 ⭐ If you find this repository useful, don't forget to give it a star! ⭐
