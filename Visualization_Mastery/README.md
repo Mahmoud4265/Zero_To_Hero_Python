@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-Welcome to my ** Visualization** Folder! This project serves as an interactive tracker documenting my progress in mastering visual storytelling and dynamic plotting
+Welcome to my **Visualization** folder! This project serves as an interactive tracker documenting my progress in mastering visual storytelling and dynamic plotting
 ---
 
 ## 🎯 Repository Status
@@ -51,34 +51,34 @@ Welcome to my ** Visualization** Folder! This project serves as an interactive t
    ```bash
    git clone [https://github.com/Mahmoud4265/Matplotlib-Full-Python-Course.git](https://github.com/Mahmoud4265/Matplotlib-Full-Python-Course.git)
    cd Matplotlib-Full-Python-Course
-```
-2.Set Up Environment:
+   ```
+2. **Set Up Environment:**
 
 ```Bash
 conda create -n datasci python=3.10
 conda activate datasci
-pip install -r requirements.txt
+pip install matplotlib numpy pandas
 ```
-3.Launch Notebooks:
+3.**Launch Notebooks:**
 ```Bash
 jupyter notebook
 ```
 📈 Interactive Learning Roadmap
-[x] Phase 1: Foundations
+✔  Phase 1: Foundations
 
-[x] Python Data Science Fundamentals & Array Operations
+✔  Python Data Science Fundamentals & Array Operations
 
-[x] 100 NumPy Exercises Completed
+✔  100 NumPy Exercises Completed
 
-[x] 60 Pandas Data Manipulation Exercises Completed
+✔  60 Pandas Data Manipulation Exercises Completed
 
-[x] Phase 2: Visualization Mastery
+✔ Phase 2: Visualization Mastery
 
-[x] Matplotlib Plot Customization & Layouts
+✔  Matplotlib Plot Customization & Layouts
 
-[x] Complex Subplots & Multi-figure Grids
+✔  Complex Subplots & Multi-figure Grids
 
-[x] Dynamic Animations & Custom Styling
+✔ Dynamic Animations & Custom Styling
 
 [ ] Seaborn Statistical Visualizations
 
