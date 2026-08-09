@@ -56,7 +56,7 @@ cd Zero_To_Hero_Python/Pandas_Mastery/100-pandas-puzzles
 3.Install dependencies:
 
 ```Bash
-pip install pandas numpy jupyter
+pip install requirements.txt
 ```
 Launch Jupyter Notebook:
 
