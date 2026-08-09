@@ -1,4 +1,4 @@
-# 📊 Data Visualization & Machine Learning Portfolio
+# 📊 Data Visualization
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -20,7 +20,7 @@ Welcome to my **Visualization** folder! This project serves as an interactive tr
 | :--- | :--- |
 | **Current Focus** | Matplotlib Animations & Seaborn Integration |
 | **Completed Modules** | NumPy (100 Exercises) & Pandas (60 Questions) |
-| **Next Step** | Exploratory Data Analysis (EDA) & Scikit-Learn Pipelines |
+| **Next Step** | Exploratory Data Analysis (EDA) |
 
 ---
 
@@ -49,15 +49,15 @@ Welcome to my **Visualization** folder! This project serves as an interactive tr
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Mahmoud4265/Matplotlib-Full-Python-Course.git](https://github.com/Mahmoud4265/Matplotlib-Full-Python-Course.git)
-   cd Matplotlib-Full-Python-Course
+   git clone [https://github.com/Mahmoud4265/Visualization_Mastery.git](https://github.com/Mahmoud4265/Visualization_Mastery.git)
+   cd Visualization_Mastery
    ```
 2. **Set Up Environment:**
 
 ```Bash
 conda create -n datasci python=3.10
 conda activate datasci
-pip install matplotlib numpy pandas
+pip install matplotlib numpy 
 ```
 3.**Launch Notebooks:**
 ```Bash
