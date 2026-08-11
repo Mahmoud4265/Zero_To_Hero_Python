@@ -18,9 +18,9 @@ Welcome to my **Visualization** folder! This project serves as an interactive tr
 
 | Status | Details |
 | :--- | :--- |
-| **Current Focus** | Matplotlib Animations & Seaborn Integration |
-| **Completed Modules** | NumPy (100 Exercises) & Pandas (60 Questions) |
-| **Next Step** | ML (Machine Learning) |
+| **Current Focus** | ML (Machine Learning) |
+| **Completed Modules** | NumPy (100 Exercises), Pandas (60 Questions), Matplotlib Animations & Seaborn Integration |
+
 
 ---
 
@@ -64,6 +64,7 @@ pip install matplotlib numpy
 jupyter notebook
 ```
 📈 Interactive Learning Roadmap
+
 ✔  Phase 1: Foundations
 
 ✔  Python Data Science Fundamentals & Array Operations
