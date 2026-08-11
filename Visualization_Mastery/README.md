@@ -14,13 +14,13 @@ Welcome to my **Visualization** folder! This project serves as an interactive tr
 
 ## 🎯 Repository Status
 
-![Progress](https://geps.dev/progress/65?dangerColor=800000&warningColor=ffc107&successColor=4caf50)
+![Progress](https://geps.dev/progress/100?dangerColor=800000&warningColor=ffc107&successColor=4caf50)
 
 | Status | Details |
 | :--- | :--- |
 | **Current Focus** | Matplotlib Animations & Seaborn Integration |
 | **Completed Modules** | NumPy (100 Exercises) & Pandas (60 Questions) |
-| **Next Step** | Exploratory Data Analysis (EDA) |
+| **Next Step** | ML (Machine Learning) |
 
 ---
 
@@ -70,6 +70,8 @@ jupyter notebook
 
 ✔  100 NumPy Exercises Completed
 
+✔ Exploratory Data Analysis (EDA) Projects
+
 ✔  60 Pandas Data Manipulation Exercises Completed
 
 ✔ Phase 2: Visualization Mastery
@@ -80,8 +82,8 @@ jupyter notebook
 
 ✔ Dynamic Animations & Custom Styling
 
-[ ] Seaborn Statistical Visualizations
+✔ Seaborn Statistical Visualizations
 
-[ ] Exploratory Data Analysis (EDA) Projects
+
 
 #StandWithPalestine 🍉
