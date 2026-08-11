@@ -2,7 +2,7 @@
 
 # 🐍 Zero To Hero Python
 
-### *Your Ultimate Roadmap from Python Basics to Advanced Data Science & AI*
+### *Your Ultimate Roadmap to Data Science*
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
@@ -11,7 +11,7 @@
 
 ---
 
-> 🎯 **Goal:** Master Python, Data Science, and Machine Learning through clean code, structured learning, and hands-on projects!
+> 🎯 **Goal:** Master Data Science through clean code, structured learning, and hands-on projects!
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 📌 About The Repository
 
-**Zero_To_Hero_Python** is a comprehensive, structured roadmap designed to take you from a complete beginner in Python to writing production-ready code for **Data Science**, **Machine Learning**, and **Deep Learning**. 
+**Zero_To_Hero_Python** is a comprehensive, structured roadmap designed to take you from a complete **beginner in Data Science** to writing production-ready code for **Data Science**.
 
 It emphasizes **clean code practices**, **algorithmic problem-solving**, and **project-based learning**.
 
@@ -27,20 +27,21 @@ It emphasizes **clean code practices**, **algorithmic problem-solving**, and **p
 
 ## 🗺️ What You'll Learn (The Curriculum)
 <details open>
-<summary><b>📊 Phase 1: Data Manipulation & Wrangling</b></summary>
+<summary><b>📊 Phase 1: Data Manipulation, Wrangling & EDA</b></summary>
 <br>
 
 - [x] **NumPy:** Vectorized operations, N-dimensional arrays, mathematical manipulations.
+- [x]  Exploratory Data Analysis (EDA) on Real-World Datasets.
 - [x] **Pandas:** DataFrames, Series, Data Cleaning, Merging & Handling Missing Data.
 </details>
 
 <details open>
-<summary><b>📈 Phase 2: Data Visualization & EDA</b></summary>
+<summary><b>📈 Phase 2: Data Visualization</b></summary>
 <br>
 
 - [x] **Matplotlib:** Customizing plots, figures, subplots.
-- [ ] **Seaborn:** Statistical data visualization, heatmaps, distribution plots.
-- [ ] Exploratory Data Analysis (EDA) on Real-World Datasets.
+- [x] **Seaborn:** Statistical data visualization, heatmaps, distribution plots.
+
 </details>
 
 
@@ -72,12 +73,12 @@ It emphasizes **clean code practices**, **algorithmic problem-solving**, and **p
    git clone [https://github.com/Mahmoud4265/Zero_To_Hero_Python.git](https://github.com/Mahmoud4265/Zero_To_Hero_Python.git)
    cd Zero_To_Hero_Python
    ```
-2.Create a virtual environment:
+2.**Create a virtual environment:**
 ```Bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
-3.Install dependencies:
+3.**Install dependencies:**
 ```Bash
 pip install numpy pandas matplotlib seaborn
 ```
